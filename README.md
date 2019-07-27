@@ -23,9 +23,9 @@ This starts a server on localhost, port 8025 without setting the uid to
 [Click for more information](https://aiosmtpd.readthedocs.io/en/latest/aiosmtpd/docs/cli.html)
 
 ### Rasa versions used for testing
-rasa-core==0.8.2
-rasa-nlu==0.11.5
-rasa-sdk==1.1.0
+rasa-core==0.8.2  
+rasa-nlu==0.11.5  
+rasa-sdk==1.1.0  
 rasa-x==0.19.5
 
 ### Rasa Output
